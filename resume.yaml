@@ -1,0 +1,278 @@
+cv:
+  name: "Konstantin Papesh"
+  location: "Linz, AT"
+  photo: "profile_picture.jpg"
+  email: "konstantin@papesh.at"
+  phone: "+436603190982"
+  social_networks:
+    - network: "LinkedIn"
+      username: "konstantinpapesh"
+    - network: "GitHub"
+      username: "SydoxX"
+  sections:
+    education:
+      - institution: "University of Applied Sciences Upper Austria"
+        area: "Data Science and Engineering"
+        degree: "MSc"
+        start_date: "2020"
+        end_date: "2022"
+        highlights: []
+      - institution: "University of Applied Sciences Upper Austria"
+        area: "Software Engineering"
+        degree: "BSc"
+        start_date: "2018"
+        end_date: "2020"
+        highlights: []
+      - institution: "HTBLVA Anichstraße, Innsbruck"
+        area: "Elektronik & Technische Informatik"
+        start_date: "2012"
+        end_date: "2017"
+        highlights: []
+    experience:
+      - company: "ENGEL"
+        position: "Development Team Lead"
+        location: "Schwertberg, AT"
+        start_date: "2025-04"
+        end_date: "present"
+        summary: "Leading the IMM-MES Connectivity Team."
+      - company: "ENGEL"
+        position: "Product Owner"
+        location: "Schwertberg, AT"
+        start_date: "2023-04"
+        end_date: "present"
+        summary: "Planning and developing the connectivity layer for MES to IMM communications, enabling the integration of injection moulding machines from various manufacturers into multiple monitoring solutions from ENGEL."
+      - company: "ENGEL"
+        position: "Software Engineer"
+        location: "Schwertberg, AT"
+        start_date: "2022-10"
+        end_date: "present"
+        summary: "Working at ENGEL but employed at TIG.
+          Implementing the connectivity layer for MES to IMM communications, enabling the integration of injection moulding machines from various manufacturers into multiple monitoring solutions from ENGEL."
+      - company: "Technische Informationssysteme GmbH"
+        position: "Software Engineer"
+        location: "Schwertberg, AT"
+        start_date: "2022-10"
+        end_date: "2023-12"
+        summary: "Implementing the edge connectivity layer for MES to IMM communications, enabling the integration of injection moulding machines from various manufacturers into multiple monitoring solutions from ENGEL."
+      - company: "Advanced Information Systems and Technology"
+        position: "Research Assistant"
+        location: "Hagenberg im Mühlkreis, AT"
+        start_date: "2021-04"
+        end_date: "2022-09"
+      - company: "sequality software engineering"
+        position: "Software Engineering Consultant"
+        location: "Hagenberg im Mühlkreis, AT"
+        start_date: "2020-02"
+        end_date: "2020-12"
+        summary: "Implementing a ISO 17215 \"Video communication interface for cameras\" stack in C++ to configure and control road vehicle cameras."
+      - company: "bet-at-home.com"
+        position: "DevOps Intern"
+        location: "Linz, AT"
+        start_date: "2019-07"
+        end_date: "2019-09"
+        highlights: []
+        summary: "Prototyping and implementing an Kubernetes-based infrastructure for containerized tests with Zalenium."
+      - company: "Österreichisches Bundesheer (Austrian Armed Forces)"
+        position: "Soldier"
+        location: "Innsbruck, AT"
+        start_date: "2017-09"
+        end_date: "2018-02"
+        highlights: []
+        summary: "Compulsory military service"
+      - company: "List Engineering"
+        position: "Freelance Software Engineer"
+        location: "Innsbruck, AT"
+        start_date: "2016-07"
+        end_date: "2017-09"
+        highlights: []
+        summary: "Data visualisation of IoT data based on ThingSpeak and Matlab."
+      - company: "Flugplatz/Flugschule Tannheim"
+        position: "Intern"
+        location: "Memmingen, DE"
+        start_date: "2014-07"
+        end_date: "2014-07"
+        highlights: []
+    projects:
+      - name: "[SOC-Toolkit](https://aist.fh-hagenberg.at/index.php/de/projekte/soc-toolkit)"
+        location: "Advanced Information Systems and Technology"
+        summary: "The goal of the SOC-Toolkit project is to significantly reduce the response times to security incidents and to provide security analysts with a holistic view of security incidents by automatically enriching and linking existing data from different security solutions. The faster containment of incidents minimizes the extent of potential damages, and the extensive automation of previously manual activities frees valuable employee resources for other purposes."
+      - name: "[Project AKFA](https://aist.fh-hagenberg.at/index.php/en/projects/project-akfa)"
+        location: "Advanced Information Systems and Technology"
+        summary: "The project Aktive Betriebsoptimierung für Fahrzeugflotten aims to reduce costs and risks of various larger logistics and fleet companies in Austria. Among other things, many body damages are caused by reversing too fast, as well as increase in wear on the engine and drive train. Furthermore, the tire wear, as well as the fuel consumption of the fleet overall is also above average."
+      - name: "[IP Camera Configurator](https://www.sequality.at/en/products/ip-camera-configurator/)"
+        location: "sequality software engineering"
+        summary: "The Sequality IP Camera Configurator enables you to configure, monitor and see the video stream of a digital video camera. Currently the tool focuses on support for ISO17215 based video cameras most commonly used in road vehicles (e.g. Orlaco EMOS Ethernet cameras). Beside the GUI application that can run on Windows, Linux or embedded Linux devices, there is also a powerful ISO17215-based API available that lets you integrate your digital camera stream into your application!"
+    skills:
+      - label: "Programming"
+        details: "Proficient in C, C++, C#, Java, Javascript, Golang and Git"
+      - label: "DevOps"
+        details: "Experience with build pipelines in Azure DevOps and Jenkins. Experience in delivery and deployment of Azure-hosted services."
+      - label: "Tools"
+        details: "Experience with Azure DevOps, Atlassian Jira, Microsoft SharePoint and Microsoft Azure"
+      - label: "Languages"
+        details: "English (fluent), German (native)"
+    publications:
+      - title: "Analysis of Threat Intelligence Information Exchange via the STIX Standard"
+        date: "2022-11-18"
+        doi: "10.1109/ICECCME55909.2022.9988073"
+        url: "https://doi.org/10.1109/ICECCME55909.2022.9988073"
+        authors:
+          - "Oliver Krauss"
+          - "Konstantin Papesh"
+        journal: "2022 International Conference on Electrical, Computer, Communications and Mechatronics Engineering"
+      - title: "Measuring Data Quality in STIX-based SOAR Platforms"
+        date: "2022-09-02"
+        url: "https://konstantin.papesh.at/download/coding/ma_thesis.pdf"
+        authors:
+          - "Konstantin Papesh"
+      - title: "A Scalable Microservice Infrastructure for Fleet Data Management"
+        date: "2022-08-15"
+        authors:
+          - "Rainer Meindl"
+          - "Konstantin Papesh"
+          - "David Baumgartner"
+          - "Emmanuel Helm"
+        doi: "10.1007/978-3-031-14343-4_37"
+        url: "https://doi.org/10.1007/978-3-031-14343-4_37"
+        journal: "Database and Expert Systems Applications - DEXA 2022 Workshops"
+      - title: "Parallel Programming in C++, Go, Julia and Rust"
+        date: "2020-05-30"
+        authors:
+          - "Konstantin Papesh"
+        url: "https://konstantin.papesh.at/download/coding/ba_thesis.pdf"
+  website: "https://konstantin.papesh.at"
+design:
+  theme: moderncv
+  page:
+    size: a4
+    top_margin: 2cm
+    bottom_margin: 2cm
+    left_margin: 2cm
+    right_margin: 2cm
+    show_page_numbering: true
+    show_last_updated_date: true
+  colors:
+    text: rgb(0, 0, 0)
+    name: rgb(0, 147, 221)
+    connections: rgb(0, 0, 0)
+    section_titles: rgb(0, 147, 221)
+    links: rgb(0, 147, 221)
+    last_updated_date_and_page_numbering: rgb(128, 128, 128)
+  text:
+    font_family: Open Sauce Sans
+    font_size: 9pt
+    leading: 0.6em
+    alignment: justified
+    date_and_location_column_alignment: right
+  links:
+    underline: true
+    use_external_link_icon: false
+  header:
+    name_font_size: 25pt
+    name_bold: false
+    photo_width: 3.5cm
+    vertical_space_between_name_and_connections: 0.7cm
+    vertical_space_between_connections_and_first_section: 0.7cm
+    horizontal_space_between_connections: 0.5cm
+    connections_font_family: Open Sauce Sans
+    separator_between_connections: ''
+    use_icons_for_connections: true
+    alignment: left
+  section_titles:
+    type: moderncv
+    font_family: Open Sauce Sans
+    font_size: 1.4em
+    bold: false
+    small_caps: false
+    line_thickness: 0.15cm
+    vertical_space_above: 0.55cm
+    vertical_space_below: 0.3cm
+  entries:
+    date_and_location_width: 4.15cm
+    left_and_right_margin: 0cm
+    horizontal_space_between_columns: 0.4cm
+    vertical_space_between_entries: 0.4cm
+    allow_page_break_in_sections: true
+    allow_page_break_in_entries: true
+    short_second_row: false
+    show_time_spans_in: []
+  highlights:
+    bullet: •
+    top_margin: 0.25cm
+    left_margin: 0cm
+    vertical_space_between_highlights: 0.19cm
+    horizontal_space_between_bullet_and_highlight: 0.3em
+    summary_left_margin: 0cm
+  entry_types:
+    one_line_entry:
+      template: '**LABEL:** DETAILS'
+    education_entry:
+      main_column_first_row_template: '**INSTITUTION**, DEGREE in AREA -- LOCATION'
+      degree_column_template:
+      degree_column_width: 1cm
+      main_column_second_row_template: |-
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column_template: DATE
+    normal_entry:
+      main_column_first_row_template: '**NAME** -- **LOCATION**'
+      main_column_second_row_template: |-
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column_template: DATE
+    experience_entry:
+      main_column_first_row_template: '**POSITION**, COMPANY -- LOCATION'
+      main_column_second_row_template: |-
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column_template: DATE
+    publication_entry:
+      main_column_first_row_template: '**TITLE**'
+      main_column_second_row_template: |-
+        AUTHORS
+        URL (JOURNAL)
+      main_column_second_row_without_journal_template: |-
+        AUTHORS
+        URL
+      main_column_second_row_without_url_template: |-
+        AUTHORS
+        JOURNAL
+      date_and_location_column_template: DATE
+locale:
+  language: en
+  phone_number_format: national
+  page_numbering_template: NAME - Page PAGE_NUMBER of TOTAL_PAGES
+  last_updated_date_template: Last updated in TODAY
+  date_template: MONTH_ABBREVIATION YEAR
+  month: month
+  months: months
+  year: year
+  years: years
+  present: present
+  to: –
+  abbreviations_for_months:
+    - Jan
+    - Feb
+    - Mar
+    - Apr
+    - May
+    - June
+    - July
+    - Aug
+    - Sept
+    - Oct
+    - Nov
+    - Dec
+  full_names_of_months:
+    - January
+    - February
+    - March
+    - April
+    - May
+    - June
+    - July
+    - August
+    - September
+    - October
+    - November
+    - December

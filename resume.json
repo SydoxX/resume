@@ -1,0 +1,295 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Konstantin Papesh",
+    "label": "Computer Mann",
+    "image": "",
+    "email": "konstantin@papesh.at",
+    "phone": "+436603190982",
+    "url": "https://konstantin.papesh.at/",
+    "summary": "",
+    "location": {
+      "countryCode": "US",
+      "address": "Austria"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "konstantinpapesh",
+        "url": "https://www.linkedin.com/in/konstantinpapesh/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "ENGEL",
+      "position": "Development Team Lead",
+      "startDate": "2025-04-01",
+      "endDate": "",
+      "highlights": [],
+      "summary": "Leading the IMM-MES Connectivity Team.",
+      "url": "https://www.linkedin.com/company/engel-global/",
+      "location": "Schwertberg, Upper Austria, Austria"
+    },
+    {
+      "name": "ENGEL",
+      "position": "Product Owner",
+      "startDate": "2023-04-01",
+      "endDate": "",
+      "highlights": [],
+      "summary": "Planning and developing the connectivity layer for MES to IMM communications, enabling the integration of injection moulding machines from various manufacturers into multiple monitoring solutions from ENGEL.",
+      "url": "https://www.linkedin.com/company/engel-global/",
+      "location": "Schwertberg, Upper Austria, Austria"
+    },
+    {
+      "name": "ENGEL",
+      "position": "Software Engineer",
+      "startDate": "2022-10-31",
+      "endDate": "",
+      "highlights": [],
+      "summary": "Working at ENGEL but employed at TIG.\nImplementing the connectivity layer for MES to IMM communications, enabling the integration of injection moulding machines from various manufacturers into multiple monitoring solutions from ENGEL.",
+      "url": "https://www.linkedin.com/company/engel-global/",
+      "location": "Schwertberg, Upper Austria, Austria"
+    },
+    {
+      "name": "TIG - Technische Informationssysteme GmbH",
+      "position": "Software Engineer",
+      "startDate": "2022-10-31",
+      "endDate": "2023-12-31",
+      "highlights": [],
+      "summary": "Implementing the edge connectivity layer for MES to IMM communications, enabling the integration of injection moulding machines from various manufacturers into multiple monitoring solutions from ENGEL.",
+      "url": "https://www.linkedin.com/company/t.i.g.-technische-informationssysteme-gmbh/",
+      "location": "Schwertberg, Upper Austria, Austria"
+    },
+    {
+      "name": "Advanced Information Systems and Technology",
+      "position": "Research Assistant",
+      "startDate": "2021-04-30",
+      "endDate": "2022-09-30",
+      "highlights": [],
+      "summary": "SOC-Toolkit\nFramework for analyzing thread indicators via STIX. Implementing a framework to automatically rate information quality of enriched SOC data.\n\nProject AKFA\nImplementing a dashboard and API interfaces to visualize live-vehicle data via Grafana and GraphQL.",
+      "url": "https://www.linkedin.com/company/fhooeaist/",
+      "location": "Hagenberg im Mühlkreis, Upper Austria, Austria"
+    },
+    {
+      "name": "sequality software engineering",
+      "position": "Software Engineering Consultant",
+      "startDate": "2020-02-28",
+      "endDate": "2020-12-31",
+      "highlights": [],
+      "summary": "Implementing a ISO 17215 \"Video communication interface for cameras\" stack in C++ to configure and control road vehicle cameras.",
+      "url": "https://www.linkedin.com/company/sequality-software-engineering/",
+      "location": "Hagenberg im Mühlkreis, Upper Austria, Austria"
+    },
+    {
+      "name": "bet-at-home.com",
+      "position": "QA Intern",
+      "startDate": "2019-07-31",
+      "endDate": "2019-09-30",
+      "highlights": [],
+      "summary": "Prototyping and implementing an Kubernetes-based infrastructure for containerized tests with Zalenium.",
+      "url": "https://www.linkedin.com/company/bet-at-home/",
+      "location": "Linz, Upper Austria, Austria"
+    },
+    {
+      "name": "Österreichisches Bundesheer (Austrian Armed Forces)",
+      "position": "Soldier",
+      "startDate": "2017-09-30",
+      "endDate": "2018-02-28",
+      "highlights": [],
+      "summary": "Compulsory military service",
+      "url": "https://www.linkedin.com/company/bundesheer/",
+      "location": "Innsbruck, Tyrol, Austria"
+    },
+    {
+      "name": "List Engineering",
+      "position": "Freelance Software Engineer",
+      "startDate": "2016-07-31",
+      "endDate": "2017-09-30",
+      "highlights": [],
+      "summary": "Data visualisation of IoT data based on ThingSpeak and Matlab.",
+      "url": "",
+      "location": "Innsbruck, Tyrol, Austria"
+    },
+    {
+      "name": "Flugplatz/Flugschule Tannheim",
+      "position": "Intern",
+      "startDate": "2014-07-01",
+      "endDate": "2014-07-31",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/flugplatz-flugschule-tannheim/",
+      "location": "Memmingen, Bavaria, Germany"
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Applied Sciences Upper Austria",
+      "area": "Data Science and Engineering",
+      "studyType": "Master of Science - MSc",
+      "startDate": "2020-12-31",
+      "endDate": "2022-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Applied Sciences Upper Austria",
+      "area": "Software Engineering",
+      "studyType": "Bachelor of Science - BSc",
+      "startDate": "2018-12-31",
+      "endDate": "2020-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "HTBLVA Anichstraße, Innsbruck",
+      "area": "Elektronik & Technische Informatik",
+      "studyType": "Matura",
+      "startDate": "2012-12-31",
+      "endDate": "2017-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "CCNA Routing and Switching: Routing and Switching Essentials",
+      "issuer": "Cisco",
+      "startDate": "2016-02-28"
+    },
+    {
+      "name": "CCNA Routing and Switching: Introduction to Networks",
+      "issuer": "Cisco",
+      "startDate": "2016-02-28"
+    },
+    {
+      "name": "EFSET EXPRESS Medium Proficiency (CEFR B1/B2)",
+      "issuer": "EF Education First",
+      "url": "https://www.efset.org/"
+    },
+    {
+      "name": "Radio Amateur License - CEPT",
+      "issuer": "Fernmeldebehörde Republik Österreich",
+      "startDate": "2017-11-30"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Analysis of Threat Intelligence Information Exchange via the STIX Standard",
+      "publisher": "IEEE",
+      "releaseDate": "2022-11-18",
+      "summary": "",
+      "url": "https://doi.org/10.1109/ICECCME55909.2022.9988073"
+    },
+    {
+      "name": "Measuring Data Quality in STIX-based SOAR Platforms",
+      "publisher": null,
+      "releaseDate": "2022-09-02",
+      "summary": "Master Thesis",
+      "url": "https://konstantin.papesh.at/download/coding/ma_thesis.pdf"
+    },
+    {
+      "name": "A Scalable Microservice Infrastructure for Fleet Data Management",
+      "publisher": "Springer, Cham",
+      "releaseDate": "2022-08-15",
+      "summary": "",
+      "url": "https://doi.org/10.1007/978-3-031-14343-4_37"
+    },
+    {
+      "name": "Parallel Programming in C++, Go, Julia and Rust",
+      "publisher": null,
+      "releaseDate": "2020-05-30",
+      "summary": "Bachelor Thesis",
+      "url": "https://konstantin.papesh.at/download/coding/ba_thesis.pdf"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Microsoft Azure",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Jira",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Julia (Programming Language)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C#",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C++",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Kubernetes",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Linux",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Computer Hardware",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Git",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Go",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Docker",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "DevOps",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "fluency": "Elementary",
+      "language": "Austrian Sign Language"
+    },
+    {
+      "fluency": "Full Professional",
+      "language": "English"
+    },
+    {
+      "fluency": "Native Speaker",
+      "language": "German"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
