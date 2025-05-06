@@ -2,6 +2,7 @@ cv:
   name: "Konstantin Papesh"
   location: "Linz, AT"
   photo: "profile_picture.jpg"
+  website: "https://konstantin.papesh.at"
   email: "konstantin@papesh.at"
   phone: "+436603190982"
   social_networks:
@@ -71,7 +72,7 @@ cv:
         end_date: "2019-09"
         highlights: []
         summary: "Prototyping and implementing an Kubernetes-based infrastructure for containerized tests with Zalenium."
-      - company: "Österreichisches Bundesheer (Austrian Armed Forces)"
+      - company: "Österreichisches Bundesheer"
         position: "Soldier"
         location: "Innsbruck, AT"
         start_date: "2017-09"
@@ -139,7 +140,6 @@ cv:
         authors:
           - "Konstantin Papesh"
         url: "https://konstantin.papesh.at/download/coding/ba_thesis.pdf"
-  website: "https://konstantin.papesh.at"
 design:
   theme: moderncv
   page:
