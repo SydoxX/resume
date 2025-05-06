@@ -93,15 +93,15 @@ cv:
         end_date: "2014-07"
         highlights: []
     projects:
-      - name: "[SOC-Toolkit](https://aist.fh-hagenberg.at/index.php/de/projekte/soc-toolkit)"
-        location: "Advanced Information Systems and Technology"
-        summary: "The goal of the SOC-Toolkit project is to significantly reduce the response times to security incidents and to provide security analysts with a holistic view of security incidents by automatically enriching and linking existing data from different security solutions. The faster containment of incidents minimizes the extent of potential damages, and the extensive automation of previously manual activities frees valuable employee resources for other purposes."
+      - name: "[Enodo](https://aist.fh-hagenberg.at/index.php/de/projekte/soc-toolkit)"
+        location: "Advanced Information Systems and Technology & Nextpart"
+        summary: "Enodo is a data quality tool for the Nexpart SOC-Toolkit, estimating the impact and quality of enriched threat indicators. Implemented in Go and Svelte, it offers insight into STIX-based graphs by analysing the data quality and quantity added by various external services."
       - name: "[Project AKFA](https://aist.fh-hagenberg.at/index.php/en/projects/project-akfa)"
         location: "Advanced Information Systems and Technology"
-        summary: "The project Aktive Betriebsoptimierung für Fahrzeugflotten aims to reduce costs and risks of various larger logistics and fleet companies in Austria. Among other things, many body damages are caused by reversing too fast, as well as increase in wear on the engine and drive train. Furthermore, the tire wear, as well as the fuel consumption of the fleet overall is also above average."
+        summary: "Planning and implementing a live feed for vehicle data overview via GraphQL and Grafana. The data is streamed live via Websockets to the Grafana interface which visualises the current parameters of the vehicle, i.e. Coordinates, Speed, Gear..."
       - name: "[IP Camera Configurator](https://www.sequality.at/en/products/ip-camera-configurator/)"
         location: "sequality software engineering"
-        summary: "The Sequality IP Camera Configurator enables you to configure, monitor and see the video stream of a digital video camera. Currently the tool focuses on support for ISO17215 based video cameras most commonly used in road vehicles (e.g. Orlaco EMOS Ethernet cameras). Beside the GUI application that can run on Windows, Linux or embedded Linux devices, there is also a powerful ISO17215-based API available that lets you integrate your digital camera stream into your application!"
+        summary: "Implementing a ISO 17215 "Video communication interface for cameras" stack in C++ to configure and control road vehicle cameras. A companion tool written in qt is also implemented which enables users to easily configure devices via a GUI."
     skills:
       - label: "Programming"
         details: "Proficient in C, C++, C#, Java, Javascript, Golang and Git"
