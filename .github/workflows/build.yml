@@ -1,0 +1,20 @@
+name: Generate cv
+on:
+  push:
+    branches: ["main"]
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Render cv
+        run: |
+          pip install rendercv[full]
+          rendercv render resume.yaml
+      - name: Archive cv artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: cv
+          path: |
+            rendercv_output
