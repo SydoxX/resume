@@ -5,18 +5,22 @@
     "label": "Computer Mann",
     "image": "",
     "email": "konstantin@papesh.at",
-    "phone": "+436603190982",
+    "phone": "+43 660 3190982",
     "url": "https://konstantin.papesh.at/",
     "summary": "",
     "location": {
-      "countryCode": "US",
+      "countryCode": "AT",
+      "city": "Linz",
       "address": "Austria"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "konstantinpapesh",
-        "url": "https://www.linkedin.com/in/konstantinpapesh/"
+        "username": "konstantinpapesh"
+      },
+      {
+        "network": "Github",
+        "username": "SydoxX"
       }
     ]
   },
@@ -33,11 +37,11 @@
     },
     {
       "name": "ENGEL",
-      "position": "Product Owner",
+      "position": "Product Owner & Architect",
       "startDate": "2023-04-01",
       "endDate": "",
       "highlights": [],
-      "summary": "Planning and developing the connectivity layer for MES to IMM communications, enabling the integration of injection moulding machines from various manufacturers into multiple monitoring solutions from ENGEL.",
+      "summary": "Planning the connectivity layer for MES to IMM communication.",
       "url": "https://www.linkedin.com/company/engel-global/",
       "location": "Schwertberg, Upper Austria, Austria"
     },
@@ -47,7 +51,7 @@
       "startDate": "2022-10-31",
       "endDate": "",
       "highlights": [],
-      "summary": "Working at ENGEL but employed at TIG.\nImplementing the connectivity layer for MES to IMM communications, enabling the integration of injection moulding machines from various manufacturers into multiple monitoring solutions from ENGEL.",
+      "summary": "Working at ENGEL but employed at TIG. Implementing the connectivity layer for MES to IMM communications, enabling the integration of injection moulding machines from various manufacturers into multiple monitoring solutions from ENGEL, both on-premise and cloud.",
       "url": "https://www.linkedin.com/company/engel-global/",
       "location": "Schwertberg, Upper Austria, Austria"
     },
@@ -92,7 +96,7 @@
       "location": "Linz, Upper Austria, Austria"
     },
     {
-      "name": "Österreichisches Bundesheer (Austrian Armed Forces)",
+      "name": "Österreichisches Bundesheer",
       "position": "Soldier",
       "startDate": "2017-09-30",
       "endDate": "2018-02-28",
@@ -287,7 +291,31 @@
   ],
   "interests": [],
   "references": [],
-  "projects": [],
+  "projects": [
+    {
+      "name": "Squid (MES-IMM Connectivity)",
+      "description": "Squid is a service to unify communication with injection moulding machines from different manufacturers. Thus, a single interface and data model can be used to integrate various machines into an application. Squid communicates with injection moulding machines and their periphery via a selection of protocols (i.e. EM63, EM77, HTTP...) while offering a generic interface for applications transforming the received device data into a defined standard and data types. The framework is implemented in C# in combination with Blazor and ASP.NET. Interfaces to 3rd party applications are defined via gRPC."
+    },
+    {
+      "name": "Enodo",
+      "description": "Enodo is a data quality tool for the Nexpart SOC-Toolkit, estimating the impact and quality of enriched threat indicators. Implemented in Go and Svelte, it offers insight into STIX-based graphs by analysing the data quality and quantity added by various external services.",
+      "url": "https://aist.fh-hagenberg.at/index.php/de/projekte/soc-toolkit"
+    },
+    {
+      "name": "Project AKFA",
+      "description": "Planning and implementing a live feed for vehicle data overview via GraphQL and Grafana. The data is streamed live via Websockets to the Grafana interface which visualises the current parameters of the vehicle, i.e. Coordinates, Speed, Gear...",
+      "url": "https://aist.fh-hagenberg.at/index.php/en/projects/project-akfa"
+    },
+    {
+      "name": "IP Camera Configurator",
+      "description": "Implementing a ISO 17215 \"Video communication interface for cameras\" stack in C++ to configure and control road vehicle cameras. A companion tool written in qt is also implemented which enables users to easily configure devices via a GUI.",
+      "url": "https://www.sequality.at/en/products/ip-camera-configurator/"
+    },
+    {
+      "name": "Kubernetes-based testing framework",
+      "description": "Building a Kubernetes cluster from ground up to facilitate web tests via zalenium, allowing for expedite CI/CD compared to the previous, monolithic server approach. Improving reproducibility by isolating tests from each other. Container images are build, tested, staged and automatically deployed via automated helm updates. Used technologies are Kubernetes, RancherOS, Harbor, Keel, Jenkins and Perforce."
+    }
+  ],
   "meta": {
     "version": "v1.0.0",
     "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
