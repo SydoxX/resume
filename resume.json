@@ -30,8 +30,9 @@
       "position": "Development Team Lead",
       "startDate": "2025-04-01",
       "endDate": "",
-      "highlights": [],
-      "summary": "Leading the IMM-MES Connectivity Team.",
+      "highlights": [
+        "Leading the IMM-MES Connectivity Team."
+      ],
       "url": "https://www.linkedin.com/company/engel-global/",
       "location": "Schwertberg, Upper Austria, Austria"
     },
@@ -40,8 +41,9 @@
       "position": "Product Owner & Architect",
       "startDate": "2023-04-01",
       "endDate": "",
-      "highlights": [],
-      "summary": "Planning the connectivity layer for MES to IMM communication.",
+      "highlights": [
+        "Planning the connectivity layer for MES to IMM communication."
+      ],
       "url": "https://www.linkedin.com/company/engel-global/",
       "location": "Schwertberg, Upper Austria, Austria"
     },
@@ -51,7 +53,7 @@
       "startDate": "2022-10-31",
       "endDate": "",
       "highlights": [],
-      "summary": "Working at ENGEL but employed at TIG. Implementing the connectivity layer for MES to IMM communications, enabling the integration of injection moulding machines from various manufacturers into multiple monitoring solutions from ENGEL, both on-premise and cloud.",
+      "summary": "Working at ENGEL but employed at TIG.",
       "url": "https://www.linkedin.com/company/engel-global/",
       "location": "Schwertberg, Upper Austria, Austria"
     },
@@ -60,8 +62,9 @@
       "position": "Software Engineer",
       "startDate": "2022-10-31",
       "endDate": "2023-12-31",
-      "highlights": [],
-      "summary": "Implementing the edge connectivity layer for MES to IMM communications, enabling the integration of injection moulding machines from various manufacturers into multiple monitoring solutions from ENGEL.",
+      "highlights": [
+        "Implementing the edge connectivity layer for MES to IMM communications"
+      ],
       "url": "https://www.linkedin.com/company/t.i.g.-technische-informationssysteme-gmbh/",
       "location": "Schwertberg, Upper Austria, Austria"
     },
@@ -70,8 +73,10 @@
       "position": "Research Assistant",
       "startDate": "2021-04-30",
       "endDate": "2022-09-30",
-      "highlights": [],
-      "summary": "SOC-Toolkit\nFramework for analyzing thread indicators via STIX. Implementing a framework to automatically rate information quality of enriched SOC data.\n\nProject AKFA\nImplementing a dashboard and API interfaces to visualize live-vehicle data via Grafana and GraphQL.",
+      "highlights": [
+        "Implementing a framework to automatically rate information quality of enriched SOC data.",
+        "Implementing a dashboard and API interfaces to visualize live-vehicle data via Grafana and GraphQL"
+      ],
       "url": "https://www.linkedin.com/company/fhooeaist/",
       "location": "Hagenberg im Mühlkreis, Upper Austria, Austria"
     },
@@ -80,8 +85,9 @@
       "position": "Software Engineering Consultant",
       "startDate": "2020-02-28",
       "endDate": "2020-12-31",
-      "highlights": [],
-      "summary": "Implementing a ISO 17215 \"Video communication interface for cameras\" stack in C++ to configure and control road vehicle cameras.",
+      "highlights": [
+        "Implementing a ISO 17215 \"Video communication interface for cameras\" stack in C++ to configure and control road vehicle cameras."
+      ],
       "url": "https://www.linkedin.com/company/sequality-software-engineering/",
       "location": "Hagenberg im Mühlkreis, Upper Austria, Austria"
     },
@@ -90,8 +96,9 @@
       "position": "QA Intern",
       "startDate": "2019-07-31",
       "endDate": "2019-09-30",
-      "highlights": [],
-      "summary": "Prototyping and implementing an Kubernetes-based infrastructure for containerized tests with Zalenium.",
+      "highlights": [
+        "Prototyping and implementing an Kubernetes-based infrastructure for containerized tests with Zalenium."
+      ],
       "url": "https://www.linkedin.com/company/bet-at-home/",
       "location": "Linz, Upper Austria, Austria"
     },
@@ -100,7 +107,6 @@
       "position": "Soldier",
       "startDate": "2017-09-30",
       "endDate": "2018-02-28",
-      "highlights": [],
       "summary": "Compulsory military service",
       "url": "https://www.linkedin.com/company/bundesheer/",
       "location": "Innsbruck, Tyrol, Austria"
@@ -110,9 +116,9 @@
       "position": "Freelance Software Engineer",
       "startDate": "2016-07-31",
       "endDate": "2017-09-30",
-      "highlights": [],
-      "summary": "Data visualisation of IoT data based on ThingSpeak and Matlab.",
-      "url": "",
+      "highlights": [
+        "Data visualisation of IoT data based on ThingSpeak and Matlab."
+      ],
       "location": "Innsbruck, Tyrol, Austria"
     },
     {
